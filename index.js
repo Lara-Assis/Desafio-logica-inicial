@@ -1,6 +1,6 @@
 let nome ="Lara"
 let nivel = ""
-let xp= 15000
+let xp= 1360
 
 if (xp===1000){
     nivel="Ferro"
